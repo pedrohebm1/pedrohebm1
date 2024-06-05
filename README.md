@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hi, my name is Pedro. I'm an Information System student who is passionate about technology and games.
+👋 Hi, my name is Pedro. I'm an Information System student who is passionate about technology and game, studying both at my university and by myself and self-taught while exploring the giant world of ITs.
 
 ### 💻 Technologies
 
