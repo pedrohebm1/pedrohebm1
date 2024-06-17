@@ -1,6 +1,8 @@
-## About Me
+## Hello everyone, my name is Pedro, AKA pedrobm1 👋
 
-👋 Hi, my name is Pedro. I'm an Information System student who is passionate about technology and game, studying both at my university and by myself and self-taught while exploring the giant world of ITs.
+![](https://media1.tenor.com/m/1MfQk9vFF7MAAAAC/anime-bye-bye-maki.gif)
+
+Hey there! I'm an Information System student who absolutely loves diving into the world of technology and games. I'm constantly learning at university and on my own, teaching myself new things along the way. If you check out my github projects, you'll find a variety of personal projects, ones I've worked on for college, and even some for my friends.
 
 ## 💻 Technologies
 
