@@ -1,8 +1,10 @@
 ## Hello everyone, my name is Pedro, AKA pedrobm1 👋
 
-![](https://media1.tenor.com/m/1MfQk9vFF7MAAAAC/anime-bye-bye-maki.gif)
+<p align="center">
+<img width="260" height="150" src="https://media1.tenor.com/m/1MfQk9vFF7MAAAAC/anime-bye-bye-maki.gif"></img>
+</p>
 
-Hey there! I'm an Information System student who absolutely loves diving into the world of technology and games. I'm constantly learning at university and on my own, teaching myself new things along the way. If you check out my github projects, you'll find a variety of personal projects, ones I've worked on for college, and even some for my friends.
+Hey there! I'm an Information System student who absolutely loves diving into the world of technology and games. I'm always on a learning journey, both at university and on my own, picking up new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
 
 ## 💻 Technologies
 
@@ -15,5 +17,4 @@ Hey there! I'm an Information System student who absolutely loves diving into th
 
 
 ## 🧐 Curiosities
-
-Currently learning C#.
+Right now, I'm delving into the world of C# and it's been an awesome journey so far!
