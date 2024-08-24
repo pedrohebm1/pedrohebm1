@@ -1,9 +1,5 @@
 ## Hello everyone, my name is Pedro, AKA pedrobm1 👋
 
-<p align="center">
-<img width="260" height="150" src="https://github.com/pedrohebm1/pedrohebm1/blob/main/assets/wave.gif"></img>
-</p>
-
 Hey there! I'm an Information System student who absolutely loves diving into the world of technology and games. I'm always on a learning journey, both at university and on my own, picking up new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
 
 ## 💻 Technologies
