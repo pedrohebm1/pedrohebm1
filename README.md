@@ -13,4 +13,4 @@ Hey there! I'm an Information System student who absolutely loves diving into th
 
 
 ## 🧐 Curiosities
-Right now, I'm delving into the world of C# and it's been an awesome journey so far!
+Right now, I'm delving into the world of Java and it's been an awesome journey so far!
