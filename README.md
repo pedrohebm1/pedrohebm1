@@ -1,6 +1,6 @@
 ## Hello everyone, my name is Pedro, AKA pedrobm1 👋
 
-I'm an Information System student who  loves playing games. I'm always on a learning journey, both at university and on my own, picking up new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
+Web develoer who likes to play games, listen to music and watch series. I'm always on my learning journey, picking u new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
 
 ## 💻 Technologies
 
@@ -14,4 +14,4 @@ I'm an Information System student who  loves playing games. I'm always on a lear
 
 
 ## 🧐 Curiosities
-Right now, I'm delving into the world of Java but I'm also working with <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet" target="_blank">ASP.NET</a> at my college
+Right now, I'm delving into the world of Java but I had experience with projets using <a href="https://dotnet.microsoft.com/pt-br/apps/aspnet" target="_blank">ASP.NET</a> at my college
