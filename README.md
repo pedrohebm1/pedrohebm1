@@ -1,6 +1,6 @@
 ## Hello everyone, my name is Pedro, AKA pedrobm1 👋
 
-Web develoer who likes to play games, listen to music and watch series. I'm always on my learning journey, picking u new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
+Web developer who likes to play games, listen to music and watch series. I'm always on my learning journey, picking u new skills along the way. If you take a peek at my GitHub projects, you'll find a mix of personal projects, college assignments, and even some fun ones I've worked on for friends.
 
 ## 💻 Technologies
 
