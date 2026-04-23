@@ -4,7 +4,7 @@ Web developer who likes to play games, listen to music and watch series. I'm alw
 
 ## 💻 Technologies
 
-<div style="display:flex flex-direction: row">
+<div style="display:flex; flex-direction: row">
 <p>
 <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" hspace="10"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" hspace="10"/></a>
